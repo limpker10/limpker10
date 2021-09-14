@@ -19,7 +19,7 @@ I am José Miguel, a student of Systems Engineering.I also practice a bit about 
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-#### Coding Stats
+#### This week I spent my time on**
 
 <!--START_SECTION:waka-->
 ```text
