@@ -23,11 +23,11 @@ I am José Miguel, a student of Systems Engineering.I also practice a bit about 
 
 <!--START_SECTION:waka-->
 ```text
-CSS        1 hr 19 mins    ████████▒░░░░░░░░░░░░░░░░   33.25 % 
-HTML       1 hr 18 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 % 
-Markdown   1 hr 16 mins    ████████░░░░░░░░░░░░░░░░░   32.22 % 
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CSS          2 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.31 % 
+HTML         1 hr 57 mins    ████████▓░░░░░░░░░░░░░░░░   34.78 % 
+Markdown     1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.74 % 
+JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 
