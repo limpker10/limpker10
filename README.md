@@ -23,7 +23,8 @@ I am José Miguel, a student of Systems Engineering.I also practice a bit about 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   1 min           █████████████▓░░░░░░░░░░░   54.86 % 
+C++     1 min           ██████████▓░░░░░░░░░░░░░░   43.05 % 
 ```
 <!--END_SECTION:waka-->
 
