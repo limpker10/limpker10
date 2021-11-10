@@ -23,7 +23,7 @@ I am José Miguel, a student of Systems Engineering.I also practice a bit about 
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
