@@ -8,7 +8,3 @@ I am José Miguel, a student of Systems Engineering.I also practice a bit about 
 - 😄 Pronouns: limpker10
 - ⚡ Fun facts: I play and watch e-sports and also play sports very often.
 
-#### Github Stats
-
-![limpker10's github stats](https://github-readme-stats.vercel.app/api?username=limpker10&count_private=true&theme=tokyonight&hide=contribs,prs)
-
